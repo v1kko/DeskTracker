@@ -1,13 +1,19 @@
 # DeskTracker
 A Repository to track issues related to the desks in the eScience Center
 
-We already solved this many desk issues: ![placeholder](https://img.shields.io/github/issues-closed/v1kko/DeskTracker?color=green)
-
 Unusable desks: ![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BROKEN?color=red&label=unusable)
 
 ## Issues with the desks
-![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%206)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS140%2010)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS140%2013)
 ![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS140%2022)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS140%2025)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%201)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%205)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%206)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%207)
+![placeholder](https://img.shields.io/github/issues/v1kko/DeskTracker/BZS160%208)
+
 
 
 ## Usage
@@ -18,3 +24,6 @@ add the desk number as a label and you are done! If the desk is unusable due to 
 
 ### Q: The desk experiencing issues is not in the readme
 A: Add it by editing the README.md: https://github.com/v1kko/DeskTracker/edit/master/README.md
+
+
+We already solved this many desk issues: ![placeholder](https://img.shields.io/github/issues-closed/v1kko/DeskTracker?color=green)
